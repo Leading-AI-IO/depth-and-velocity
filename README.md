@@ -50,6 +50,8 @@ graph TD
 Business architects can now build functional prototypes instantly using AI Agents (Bolt, Claude Code, etc.).
 We use **"Working Prototypes"** to hack the stakeholder's "Right Brain" and accelerate validation.
 
+## Upcoming Event:
+2/26 Webinar: Deep Dive into https://sun-asterisk.com/news/event/5425/
 ---
 
 ### [Leading AI Official Website](https://leading-ai.io)
