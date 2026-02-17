@@ -119,7 +119,7 @@ AI時代に必要なのは、**「コンテキスト（文脈）の管理」** �
 **[📒 Read my insights on Note](https://note.com/satoshi_yamauchi).**<br>
 *(Founder / AI Strategist at Leading.AI)*<br>
 This project is part of the research by Leading.AI.<br>
-**[🌐 Visit Leading.AI Official Website](https://www.leading-ai.io/)**<by>
-*(For consulting inquiries and strategic partnership)*<by>
+**[🌐 Visit Leading.AI Official Website](https://www.leading-ai.io/)**<br>
+*(For consulting inquiries and strategic partnership)*<br>
 
 ---
