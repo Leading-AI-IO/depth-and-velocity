@@ -1,11 +1,9 @@
 <p align="center">
-  <img src="./assets/" alt="Depth & Velocity" width="720">
-</p
-
-<h1 align="center">Depth & Velocity</h1>
+  <img src="./assets/Leadng.AI_logo.png" width="20%">
+</p>
 
 <p align="center">
-  <strong>生成AI×新規事業の方法論：思考OS</strong>
+  <strong>生成AI×新規事業の方法論：Depth & Velocity</strong>
 </p>
 
 <p align="center">
@@ -21,11 +19,17 @@
 
 ---
 
-## 課題：なぜ新規事業は「遅い」のか
+## はじめに：生成AI時代の新規事業開発論
 
-大企業の新規事業開発は、いまだに20世紀のプロセスで動いています。数ヶ月の市場調査、大量のPowerPoint資料、何層もの承認ゲート。コードを1行書く前に、エネルギーの大半が消耗されます。
+生成AI時代における新規事業の本質は変わりません。<br>
+新規事業開発は"人の営み"であり続けます。<br>
+「意思決定（Decision）」と「熱量（Will）」はMUST要件です。<br>
 
-AIエージェントが数時間でリサーチ・プロトタイプ・検証を回せる時代に、このプロセスは単に遅いのではありません。  **構造的に間違っています。**
+しかし、従来の新規事業開発——市場調査に時間をかけ、PowerPointで完璧な計画を作り、承認を得てから開発を始めるスタイル——は、もはや「遅すぎる」のではなく「間違っている」のです。<br>
+
+私たちは、新しいオペレーティング・システム（OS）を必要としています。<br>
+それが「"Depth & Velocity"（深さと速度）」です。<br>
+
 
 ## 解法：10:80:10の法則
 
@@ -63,13 +67,13 @@ AIエージェントが数時間でリサーチ・プロトタイプ・検証を
 - **「AIで何かやれ」と言われたが、何をすればいいか分からない**大企業の新規事業担当者
 - **承認ゲートを突破する武器がない**社内起業家（イントレプレナー）
 - **AI時代の事業開発を体系化したい**スタートアップ創業者
-- **企業の新規事業支援を刷新したい**ストラテジスト・コンサルタント
 
 ## 著者について
 
-**山内 怜史（Satoshi Yamauchi）** — AIストラテジスト & ビジネスデザイナー @ [株式会社Sun Asterisk](https://sun-asterisk.com/)
+**山内 怜史（Satoshi Yamauchi）** — AIストラテジスト & ビジネスデザイナー [株式会社Sun Asterisk](https://sun-asterisk.com/)
 
-ビジネス × テクノロジー × クリエイティブ（BTC）の3領域すべてをプロとして統合する越境者。大企業のAIネイティブな新規事業開発の実践を通じて「Depth & Velocity」を体系化。
+ビジネス × テクノロジー × クリエイティブ（BTC）の3領域すべてをプロとして統合する越境者。<br>
+AIネイティブな新規事業開発の実践を通じて「Depth & Velocity」を体系化。
 
 - [Note（記事一覧）](https://note.com/satoshi_yamauchi)
 - [NewsPicks](https://newspicks.com/user/1950744/)
@@ -79,7 +83,8 @@ AIエージェントが数時間でリサーチ・プロトタイプ・検証を
 
 ## 関連プロジェクト
 
-- **[the-silence-of-intelligence](https://github.com/Leading-AI-IO/the-silence-of-intelligence)** — Anthropic CEO ダリオ・アモディのドキュメンタリー。Scaling Laws、SaaSの死、知性の未来に関するエッセイを翻訳・体系化。
+- **[the-silence-of-intelligence](https://github.com/Leading-AI-IO/the-silence-of-intelligence)**
+- —Anthropic CEO ダリオ・アモディのドキュメンタリー。Scaling Laws、SaaSの死、知性の未来に関するエッセイを翻訳・体系化。
 
 ---
 
