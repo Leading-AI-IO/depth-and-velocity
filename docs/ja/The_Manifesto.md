@@ -110,3 +110,16 @@ AI時代に必要なのは、**「コンテキスト（文脈）の管理」** �
 * 圧倒的な**速度で仮説検証**を回し続け、その中から人間だけが到達できる**本質**を見つけ出す。
 
 これが、生成AI時代の新規事業開発論です。
+
+---
+
+## Author & Maintainer
+**Satoshi Yamauchi** (山内 怜史)<br>
+*(Business Desiger & AI Strategist at Sun*)*<br>
+**[📒 Read my insights on Note](https://note.com/satoshi_yamauchi).**<br>
+*(Founder / AI Strategist at Leading.AI)*<br>
+This project is part of the research by Leading.AI.<br>
+**[🌐 Visit Leading.AI Official Website](https://www.leading-ai.io/)**<by>
+*(For consulting inquiries and strategic partnership)*<by>
+
+---
