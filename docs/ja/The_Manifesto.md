@@ -35,7 +35,10 @@ AI時代のワークフローは、人間とAIの役割を完全に再定義し�
 * **担当:** 人間
 * **役割:** 出来上がったものを世に出すか否かの最終判断。倫理的責任。
 * AIは選択肢を提示しますが、問いに対する答えを見いだすのは常に私たち人間なのです。
-<br>
+
+<p align="left">
+  <img src="../../assets/concept_10_80_10.png" alt="The 10:80:10 Rule Diagram" width="80%">
+</p>
 
 ## 2. The Architecture: Project Brain（プロジェクト脳）
 
@@ -67,7 +70,10 @@ AI時代に必要なのは、**「コンテキスト（文脈）の管理」** �
     * ・「先週の議論を踏まえて、この機能の仕様書を書いて」
     * と指示するだけで、AIは阿吽の呼吸でアウトプットを出します。
     * 新規事業開発プロセスを全て記憶する「Project Brain」が全ての拠り所として機能します。
-<br>
+
+<p align="left">
+  <img src="../../assets/project_brain.png" alt="Project Brain Architecture" width="80%">
+</p>
 
 ## 3. The Strategy: Prototype Driven（動くプロトタイプで右脳モードに）
 
@@ -94,7 +100,9 @@ AI時代に必要なのは、**「コンテキスト（文脈）の管理」** �
 * スマホで実際に動く画面を見せた瞬間、会議の空気は「批評」から「共感」へ、
 * そして改善アイデアを積極的に発言する「新規事業の伴走者」に変わります。
 
-<br>
+<p align="left">
+  <img src="../../assets/prototype_driven.png" alt="Right Brain Breakthrough" width="65%">
+</p>
 
 ## Conclusion: Build to Think「作りながら考える」
 
