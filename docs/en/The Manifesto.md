@@ -19,10 +19,6 @@ We call it **"Depth & Velocity."**
 The workflow of the AI era completely redefines the roles of humans and machines.
 We call this **"The 10:80:10 Rule."**
 
-<p align="center">
-  <img src="../../assets/10_80_10.png" alt="The 10:80:10 Rule Diagram" width="100%">
-</p>
-
 ### The First 10%: The Will
 * **Owner:** Human
 * **Role:** To define the "Deep Will"—the fundamental questions: "Why are we doing this?" and "Who is it for?"
@@ -38,16 +34,14 @@ We call this **"The 10:80:10 Rule."**
 * **Role:** The final judgment on whether to release the product to the world. Ethical responsibility.
 * AI provides options, but humans must make the choice.
 
----
+<p align="left">
+  <img src="../../assets/concept_10_80_10.png" alt="The 10:80:10 Rule Diagram" width="80%">
+</p>
 
 ## 2. The Architecture: Project Brain
 
 Throw away your task management tools (Jira/Asana).
 In the AI era, what you need to manage is not tasks, but **"Context."**
-
-<p align="center">
-  <img src="../../assets/project_brain.png" alt="Project Brain Architecture" width="100%">
-</p>
 
 ### "Brain" Architecture
 We build a **"Project Brain"** for every initiative.
@@ -64,15 +58,13 @@ We build a **"Project Brain"** for every initiative.
     * You can simply ask, "Based on last week's discussion, write the specs for this feature," and the AI outputs the result instantly.
     * The cost of humans explaining the "background" drops to zero.
 
----
+<p align="left">
+  <img src="../../assets/project_brain.png" alt="Project Brain Architecture" width="80%">
+</p
 
 ## 3. The Strategy: Prototype First
 
 The biggest reason new businesses fail in large corporations is that they try to persuade the **"Right Brain" (Intuition)** with the **"Left Brain" (Logic).**
-
-<p align="center">
-  <img src="../../assets/prototype_first.png" alt="Strategy Shift: Logic vs Prototype" width="100%">
-</p>
 
 ### The Left Brain Trap
 * PowerPoint decks, financial plans, market research reports.
@@ -84,6 +76,10 @@ The biggest reason new businesses fail in large corporations is that they try to
 * What you bring to the meeting room is not a document, but a **"Working Prototype."**
 * With AI, you can build an actual working app on day one, not just a mockup.
 * The moment you show a working screen on a smartphone, the atmosphere changes from "Critique" to "Excitement."
+
+<p align="left">
+  <img src="../../assets/prototype_driven.png" alt="Right Brain Breakthrough" width="65%">
+</p>
 
 ---
 
