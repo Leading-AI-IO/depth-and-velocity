@@ -2,7 +2,7 @@
 
 > **"Logic implies, Emotion drives."**
 
-## 0. Introduction: Why the Old Way is Broken
+## Introduction: Why the Old Way is Broken
 
 "SaaS is Dead" is just the beginning.
 In an era where AI agents write code, design interfaces, and execute marketing campaigns, humans are no longer the bottleneck for "Tasks." The real bottlenecks are **"Decision"** and **"Will."**
