@@ -30,28 +30,6 @@ What has changed is everything else. The traditional approach — spending month
 We need a new operating system.<br>
 We call it **"Depth & Velocity."**<br>
 
-## The Framework: The 10:80:10 Rule
-
-**Depth & Velocity** is a methodology that fundamentally redefines who does what in new business development.
-
-- **The First 10% (The Will):** Only humans can define the "Why." It takes something close to obsession to give a project its initial momentum.
-- **The Middle 80% (The Acceleration):** Research, analysis, prototyping, coding, and validation. AI agents handle all of it. What used to take months now takes days.
-- **The Last 10% (The Decision):** Humans decide whether to ship. Ethical responsibility. The courage to launch — and the courage to kill.
-
-## Three Principles
-
-### 1. Don't think, then build. Build, then think.
-
-Stop polishing your business plan. Build a working prototype on Day 1. The prototype will teach you what the market actually wants. AI has made this possible at near-zero cost.
-
-### 2. Manage context, not tasks.
-
-Throw away your Gantt charts. What matters in the AI era is **context** — meeting logs, user interviews, market signals. Feed everything into a "Project Brain." AI agents will retrieve what's needed instantly.
-
-### 3. Hack the boardroom.
-
-The biggest killer of corporate innovation is not the market. It is the **approval gate.** Executives reject what they cannot feel. Don't bring a slide deck — bring a working app on a smartphone. The room shifts from critique to excitement.
-
 ## Read the Manifesto
 
 The full methodology is available in two languages:
@@ -74,7 +52,7 @@ The full methodology is available in two languages:
 A cross-disciplinary practitioner who integrates Business × Technology × Creative (BTC) at a professional level across all three domains.<br>
 Developed "Depth & Velocity" through hands-on experience building AI-native business initiatives.
 
-- [Note (Articles)](https://note.com/satoshi_yamauchi)
+- [Note](https://note.com/satoshi_yamauchi)
 - [NewsPicks](https://newspicks.com/user/1950744/)
 - [GitHub: Leading-AI-IO](https://github.com/Leading-AI-IO)
 
