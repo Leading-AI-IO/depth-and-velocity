@@ -112,7 +112,7 @@ AI時代に必要なのは、**「コンテキスト（文脈）の管理」** �
 これが、生成AI時代の新規事業開発論です。
 
 <p align="left">
-  <img src="../../assets/hypothesis_verification_cycle.png" alt="Right Brain Breakthrough" width="45%">
+  <img src="../../assets/depth-and-velocity.png" alt="Right Brain Breakthrough" width="70%">
 </p>
 
 
