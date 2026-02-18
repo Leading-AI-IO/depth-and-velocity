@@ -84,7 +84,7 @@ AI時代に管理すべきは「文脈（コンテキスト）」<br>
 ビジネス × テクノロジー × クリエイティブ（BTC）の3領域すべてをプロとして統合する越境者。<br>
 AIネイティブな新規事業開発の実践を通じて「Depth & Velocity」を体系化。
 
-- [Note（記事一覧）](https://note.com/satoshi_yamauchi)
+- [Note](https://note.com/satoshi_yamauchi)
 - [NewsPicks](https://newspicks.com/user/1950744/)
 - [GitHub: Leading-AI-IO](https://github.com/Leading-AI-IO)
 
