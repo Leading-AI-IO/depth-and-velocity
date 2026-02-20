@@ -128,3 +128,11 @@ This project is part of the research by Leading.AI.<br>
 *(For consulting inquiries and strategic partnership)*<br>
 
 ---
+
+---
+
+## License
+This work is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](http://creativecommons.org/licenses/by/4.0/).
+You are free to share and adapt this material, provided you give appropriate credit to **Satoshi Yamauchi / Leading AI**.
+
+---
