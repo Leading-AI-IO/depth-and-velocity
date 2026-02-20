@@ -13,7 +13,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Book_In_Progress-orange" alt="Status">
-  <img src="https://img.shields.io/badge/License-MIT-green" alt="License">
+  <a href="http://creativecommons.org/licenses/by/4.0/"><img src="https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey" alt="License: CC BY 4.0"></a>
   <img src="https://img.shields.io/github/stars/Leading-AI-IO/depth-and-velocity?style=social" alt="Stars">
 </p>
 
