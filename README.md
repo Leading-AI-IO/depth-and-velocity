@@ -66,6 +66,4 @@ AIネイティブな新規事業開発の実践を通じて「Depth & Velocity�
 
 ---
 
-<p align="center">
-  <sub>© 2026 <a href="https://github.com/Leading-AI-IO">Leading AI</a> — Built with Depth. Shipped with Velocity.</sub>
-</p>
+<sub>© 2026 Satoshi Yamauchi / <a href="https://github.com/Leading-AI-IO">Leading AI</a> — Licensed under <a href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a><br>Built with Depth. Shipped with Velocity.</sub>
