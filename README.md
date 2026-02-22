@@ -57,12 +57,14 @@ AIネイティブな新規事業開発の実践を通じて「Depth & Velocity�
 - [NewsPicks](https://newspicks.com/user/1950744/)
 - [GitHub: Leading-AI-IO](https://github.com/Leading-AI-IO)
 
+## Related Projects
 
+本プロジェクトは、以下のオープンソースプロジェクトと連携しています。
 
-## 関連プロジェクト
-
-- **[the-silence-of-intelligence](https://github.com/Leading-AI-IO/the-silence-of-intelligence)**
-- —Anthropic CEO ダリオ・アモディのドキュメンタリー。Scaling Laws、SaaSの死、知性の未来に関するエッセイを翻訳・体系化。
+- **[The Silence of Intelligence](https://github.com/Leading-AI-IO/the-silence-of-intelligence)** <br>
+— Anthropic CEO ダリオ・アモディの思想を体系化したOSS書籍。Scaling Lawsの本質と、AIが人類にもたらす未来を解き明かします。
+- **[パランティアの衝撃：オントロジー戦略](https://github.com/Leading-AI-IO/palantir-ontology-strategy)** <br>
+— Palantir Foundryの中核概念「オントロジー」を解き明かすOSS書籍。データとAIを繋ぎ、現実世界の運用を駆動する戦略を体系化。
 
 ---
 
