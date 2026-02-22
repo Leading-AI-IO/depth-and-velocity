@@ -58,8 +58,12 @@ Developed "Depth & Velocity" through hands-on experience building AI-native busi
 
 ## Related Projects
 
-- **[the-silence-of-intelligence](https://github.com/Leading-AI-IO/the-silence-of-intelligence)**
-— A documentary of Dario Amodei, CEO of Anthropic. Translated and systematized essays on Scaling Laws, the death of SaaS, and the future of intelligence.
+This project is part of a series of open-source research projects:
+
+- **[The Silence of Intelligence](https://github.com/Leading-AI-IO/the-silence-of-intelligence)** <br>
+— An OSS book systematizing the philosophy of Anthropic CEO Dario Amodei. Explores the essence of Scaling Laws and the future AI brings to humanity.
+- **[The Palantir Impact: Ontology Strategy](https://github.com/Leading-AI-IO/palantir-ontology-strategy)** <br>
+— A comprehensive guide to Palantir Foundry's Ontology strategy. Decodes the core concept that connects data, AI, and real-world operations.
 
 ---
 
