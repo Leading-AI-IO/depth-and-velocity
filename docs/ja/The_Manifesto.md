@@ -2,7 +2,16 @@
 
 > **"Logic implies, Emotion drives."**
 > （論理は示唆するが、感情だけが人を動かす）
-<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Book_In_Progress-orange" alt="Status">
+  <a href="http://creativecommons.org/licenses/by/4.0/"><img src="https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey" alt="License: CC BY 4.0"></a>
+  <img src="https://img.shields.io/github/stars/Leading-AI-IO/depth-and-velocity?style=social" alt="Stars">
+</p>
+
+<p align="center">
+  <img src="../..//assets/Leadng.AI_logo.png" width="20%">
+</p>
 
 ## Introduction: 生成AI時代の新規事業開発とは？
 
