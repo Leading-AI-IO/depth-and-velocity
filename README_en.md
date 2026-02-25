@@ -60,10 +60,12 @@ Developed "Depth & Velocity" through hands-on experience building AI-native busi
 
 This project is part of a series of open-source research projects:
 
-- **[The Silence of Intelligence](https://github.com/Leading-AI-IO/the-silence-of-intelligence)** <br>
-— An OSS book systematizing the philosophy of Anthropic CEO Dario Amodei. Explores the essence of Scaling Laws and the future AI brings to humanity.
-- **[The Palantir Impact: Ontology Strategy](https://github.com/Leading-AI-IO/palantir-ontology-strategy)** <br>
-— A comprehensive guide to Palantir Foundry's Ontology strategy. Decodes the core concept that connects data, AI, and real-world operations.
+| Project | Overview | Link |
+|---|---|---|
+| **The AI Strategist** | Defining the AI Strategist profession with a practical framework for operating at the intersection of Business, Technology, and Creative | [GitHub](https://github.com/Leading-AI-IO/the-ai-strategist) |
+| **The Silence of Intelligence** | A trilogy structurally analyzing Dario Amodei's philosophy, exploring intelligence, ethics, and civilization in the AI era | [GitHub](https://github.com/Leading-AI-IO/the-silence-of-intelligence) |
+| **Palantir Ontology Strategy** | A deep dive into Palantir's Ontology strategy. Decoding the integration of technology and management | [GitHub](https://github.com/Leading-AI-IO/palantir-ontology-strategy) |
+| **What They Won't Teach You** | What the AI-Advantaged Generation Won't Teach You — about using AI and the "Thinking OS." A book redefining intergenerational responsibility in the AI era | [GitHub](https://github.com/Leading-AI-IO/what-they-wont-teach-you) |
 
 ---
 
