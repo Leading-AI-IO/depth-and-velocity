@@ -48,14 +48,13 @@
 
 ## 著者について
 
-**山内 怜史（Satoshi Yamauchi）** — AIストラテジスト & ビジネスデザイナー [株式会社Sun Asterisk](https://sun-asterisk.com/)
-
-ビジネス × テクノロジー × クリエイティブ（BTC）の3領域すべてをプロとして統合する越境者。<br>
-AIネイティブな新規事業開発の実践を通じて「Depth & Velocity」を体系化。
-
-- [Note](https://note.com/satoshi_yamauchi)
-- [NewsPicks](https://newspicks.com/user/1950744/)
-- [GitHub: Leading-AI-IO](https://github.com/Leading-AI-IO)
+**Satoshi Yamauchi** (山内 怜史)<br>
+*(Business Designer & AI Strategist at SunAsterisk.inc)*<br>
+**[📒 Read my insights on Note](https://note.com/satoshi_yamauchi).**<br>
+*(Founder / AI Strategist at Leading.AI)*<br>
+This project is part of the research by Leading.AI.<br>
+**[🌐 Visit Leading.AI Official Website](https://www.leading-ai.io/)**<br>
+*(For consulting inquiries and strategic partnership)*<br>
 
 ## Related Projects
 
