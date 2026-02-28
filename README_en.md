@@ -47,14 +47,13 @@ The full methodology is available in two languages:
 
 ## About the Author
 
-**Satoshi Yamauchi** — AI Strategist & Business Designer at [Sun Asterisk Inc.](https://sun-asterisk.com/)
-
-A cross-disciplinary practitioner who integrates Business × Technology × Creative (BTC) at a professional level across all three domains.<br>
-Developed "Depth & Velocity" through hands-on experience building AI-native business initiatives.
-
-- [Note](https://note.com/satoshi_yamauchi)
-- [NewsPicks](https://newspicks.com/user/1950744/)
-- [GitHub: Leading-AI-IO](https://github.com/Leading-AI-IO)
+**Satoshi Yamauchi** <br>
+*(Business Designer & AI Strategist at SunAsterisk.inc)*<br>
+**[📒 Read my insights on Note](https://note.com/satoshi_yamauchi).**<br>
+*(Founder / AI Strategist at Leading.AI)*<br>
+This project is part of the research by Leading.AI.<br>
+**[🌐 Visit Leading.AI Official Website](https://www.leading-ai.io/)**<br>
+*(For consulting inquiries and strategic partnership)*<br>
 
 ## Related Projects
 
