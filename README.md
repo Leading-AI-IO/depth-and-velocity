@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/Leadng.AI_logo.png" width="20%">
+  <img src="./assets/cover_design.png" width="70%">
 </p>
 
 <p align="center">
@@ -66,6 +66,7 @@ This project is part of the research by Leading.AI.<br>
 | **The Silence of Intelligence** | ダリオ・アモデイの思想を構造的に分析し、AI時代の知性・倫理・文明を考察する三部作 | [GitHub](https://github.com/Leading-AI-IO/the-silence-of-intelligence) |
 | **Palantir Ontology Strategy** | Palantirのオントロジー戦略を徹底解剖。技術と経営の統合を読み解く | [GitHub](https://github.com/Leading-AI-IO/palantir-ontology-strategy) |
 | **What They Won't Teach You** | AIに有利な世代が教えない、AIの使い方と"思考のOS"。AI時代における世代間の責務を再定義する書籍 | [GitHub](https://github.com/Leading-AI-IO/what-they-wont-teach-you) |
+| **The Edge of Intelligence** | AIがあなたのデバイスで動く時代：クラウドの終わりと、エッジの始まり。 | [GitHub](https://github.com/Leading-AI-IO/edge-ai-intelligence) |
 
 ---
 

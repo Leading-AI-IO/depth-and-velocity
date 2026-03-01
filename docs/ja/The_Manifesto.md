@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="../..//assets/Leadng.AI_logo.png" width="20%">
+  <img src="../..//assets/cover_design.png" width="70%">
 </p>
 
 ## Introduction: 生成AI時代の新規事業開発とは？

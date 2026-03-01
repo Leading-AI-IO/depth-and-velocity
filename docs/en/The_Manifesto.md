@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="../..//assets/Leadng.AI_logo.png" width="20%">
+  <img src="../..//assets/cover_design.png" width="70%">
 </p>
 
 ## Introduction: Why the Old Way is Broken
