@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="./docs/ja/The_Manifesto.md">🇯🇵 日本語版マニフェスト</a>  |  
-  <a href="./docs/en/The_Manifesto.md">🇬🇧 English Manifesto</a>
+  <a href="./docs/ja/depth_and_velocity_JP.md">🇯🇵 日本語版マニフェスト</a>  |  
+  <a href="./docs/en/depth_and_velocity_EN.md">🇬🇧 English Manifesto</a>
 </p>
 
 <p align="center">
@@ -37,8 +37,8 @@
 
 | 言語      | リンク                                                        |
 | ------- | ---------------------------------------------------------- |
-| 日本語     | **[docs/ja/The_Manifesto.md](./docs/ja/The_Manifesto.md)** |
-| English | **[docs/en/The_Manifesto.md](./docs/en/The_Manifesto.md)** |
+| 日本語     | **[docs/ja/depth_and_velocity_JP.md](./docs/ja/depth_and_velocity_JP.md)** |
+| English | **[docs/en/depth_and_velocity_EN.md](./docs/en/depth_and_velocity_EN.md)** |
 
 ## 誰のためのものか
 
