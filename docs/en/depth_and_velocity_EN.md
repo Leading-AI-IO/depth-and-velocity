@@ -1,4 +1,4 @@
-# Depth & Velocity: The Manifesto for Generative AI Business Development
+# Depth & Velocity: New Business Development Methodology in the Age of Generative AI
 
 > **"Logic implies, Emotion drives."**
 
