@@ -1,9 +1,7 @@
-<p align="center">
-  <img src="./assets/cover_design.png" width="70%">
-</p>
+# Depth & Velocity －生成AI時代の新規事業開発方法論－
 
 <p align="center">
-  <strong>Depth & Velocity: A Methodology for New Business Development × Generative AI</strong>
+  <img src="./assets/cover_design.png" width="70%">
 </p>
 
 <p align="center">
@@ -70,7 +68,8 @@ This project is part of a series of open-source research projects:
 | **The Redesign of Design Strategy** | Redefining design strategy, including a structural analysis of IDEO's decline | [GitHub](https://github.com/Leading-AI-IO/design-strategy-in-the-ai-era) |
 | **The Orchestrator** | The first-ever definition of the rarest role in the AI era | [GitHub](https://github.com/Leading-AI-IO/the-orchestrator-in-the-ai-era) |
 | **Advertising, Redesigned** |  Why AI will transform advertising from intrusion to a gentle, welcome proposal | [GitHub](https://github.com/Leading-AI-IO/advertising-redesigned) |
-| **The AI Organization**             | The root cause of AI failure is not technology. Organizational theory for the AI era                            | [GitHub](https://github.com/Leading-AI-IO/the-ai-organization)  |
+| **The AI Organization**             | The root cause of AI failure is not technology. Organizational theory for the AI era | [GitHub](https://github.com/Leading-AI-IO/the-ai-organization)  |
+| **The Structural Shift from SaaS**  | SaaS Is Dead: The Structural Shift from SaaS to Service-as-a-Software | [GitHub](https://github.com/Leading-AI-IO/saas-is-dead-the-next-ai-business-model)  |
 
 ---
 
