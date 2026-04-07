@@ -1,9 +1,7 @@
-<p align="center">
-  <img src="./assets/cover_design.png" width="70%">
-</p>
+# Depth & Velocity －生成AI時代の新規事業開発方法論－
 
 <p align="center">
-  <strong>生成AI×新規事業の方法論：Depth & Velocity</strong>
+  <img src="./assets/cover_design.png" width="70%">
 </p>
 
 <p align="center">
@@ -71,7 +69,8 @@
 | **The Redesign of Design Strategy** | デザイン戦略の再定義。IDEO崩壊の構造分析を含む | [GitHub](https://github.com/Leading-AI-IO/design-strategy-in-the-ai-era) |
 | **The Orchestrator** | AI時代に最も希少な人材像「オーケストレーター」を世界で初めて定義 | [GitHub](https://github.com/Leading-AI-IO/the-orchestrator-in-the-ai-era) |
 | **Advertising, Redesigned** | AIが広告を「割り込み」から「優しい提案」に変える。検索の終焉、広告が初めて「歓迎される存在」になる未来。 | [GitHub](https://github.com/Leading-AI-IO/advertising-redesigned) |
-| **The AI Organization**             | AI導入が失敗する本質は技術ではなく組織にある。AI時代の組織論      | [GitHub](https://github.com/Leading-AI-IO/the-ai-organization)  |
+| **The AI Organization** | AI導入が失敗する本質は技術ではなく組織にある。AI時代の組織論 | [GitHub](https://github.com/Leading-AI-IO/the-ai-organization)  |
+| **The Structural Shift from SaaS**  | SaaSからService-as-a-Softwareへの構造的転換。Next SaaS ビジネスモデル。| [GitHub](https://github.com/Leading-AI-IO/saas-is-dead-the-next-ai-business-model)  |
 
 ---
 
