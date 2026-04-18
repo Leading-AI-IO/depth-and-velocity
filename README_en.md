@@ -1,5 +1,8 @@
 # Depth & Velocity －生成AI時代の新規事業開発方法論－
 
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![Language](https://img.shields.io/badge/Language-English%20%7C%20Japanese-blue)](docs/)
+
 <p align="center">
   <img src="./assets/cover_design.png" width="70%">
 </p>
@@ -7,12 +10,6 @@
 <p align="center">
   <a href="./docs/ja/depth_and_velocity_JP.md">🇯🇵 日本語版マニフェスト</a>  |  
   <a href="./docs/en/depth_and_velocity_EN.md">🇬🇧 English Manifesto</a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Book_In_Progress-orange" alt="Status">
-  <a href="http://creativecommons.org/licenses/by/4.0/"><img src="https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey" alt="License: CC BY 4.0"></a>
-  <img src="https://img.shields.io/github/stars/Leading-AI-IO/depth-and-velocity?style=social" alt="Stars">
 </p>
 
 ---
