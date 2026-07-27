@@ -1,0 +1,34 @@
+# Depth & Velocity
+
+> Depth & Velocity is a methodology for new business development in the
+> generative AI era, systematized by Satoshi Yamauchi (山内怜史), AI
+> Strategist. It resolves the traditional trade-off between speed and depth
+> by using AI, transforming the hypothesis-validation process of exploratory
+> new business development into one that is both fast and deep. It also
+> proposes "Project Brain" — a practice that prevents the process of new
+> business development from becoming a black box, and instead turns the
+> process itself into an asset — and advocates its introduction into new
+> business development.
+
+## Book Content
+
+- [Manifesto (Japanese)](docs/ja/depth_and_velocity_JP.md): 方法論の全体像・日本語版
+- [Manifesto (English)](docs/en/depth_and_velocity_EN.md): Full manifesto in English
+
+## Key Facts (specific to this book)
+
+- Core principle: new business development remains a human endeavor —
+  Decision and Will remain MUST requirements even in the generative AI era
+- The old approach (lengthy market research, polished slide decks, approval
+  before building) is framed not as "too slow" but as "wrong"
+- Proposes "Project Brain": turning the process of new business development
+  itself into a reusable asset, preventing it from becoming a black box
+
+## Author & Full Catalog
+
+This book is one of 20+ open-source books by Satoshi Yamauchi (山内怜史),
+AI Strategist & Business Designer at Sun Asterisk Inc., Founder of Leading.AI.
+
+> **Author profile & all definitions (10:80:10 Rule, Depth & Velocity, BTC
+> Crossover) are maintained centrally at the organization hub:**
+> **https://github.com/Leading-AI-IO**
