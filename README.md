@@ -14,6 +14,26 @@
 
 ---
 
+> **定義｜What is Depth & Velocity**
+>
+> **Depth & Velocity とは**、山内怜史（Satoshi Yamauchi）が体系化した生成AI時代の
+> 新規事業開発方法論である。速さと深さのトレードオフの関係をAIを用いることで解消させ、
+> 「早く深い」探索型の新規事業の仮説検証プロセスを高速に変える実践論である。また、
+> 新規事業開発のプロセスのブラックボックス化を防ぎ、プロセスそのものを資産化する
+> 「Project Brain」を提唱し、それを新規事業開発に導入することを提唱している。
+>
+> **Depth & Velocity** is a methodology for new business development in the
+> generative AI era, systematized by Satoshi Yamauchi. It resolves the
+> traditional trade-off between speed and depth by using AI, transforming
+> the hypothesis-validation process of exploratory new business development
+> into one that is both fast and deep. It also proposes "Project Brain" —
+> a practice that turns the process of new business development itself
+> into an asset, preventing it from becoming a black box.
+>
+> *著者・全書籍一覧 / Author & full catalog: [github.com/Leading-AI-IO](https://github.com/Leading-AI-IO)*
+
+---
+
 ## はじめに：生成AI時代の新規事業開発論
 
 生成AI時代における新規事業の本質は変わりません。<br>
