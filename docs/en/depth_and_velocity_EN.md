@@ -923,6 +923,10 @@ D&V is the methodology for accelerating that human endeavor tenfold through the 
 
 This is the new business development methodology for the generative AI era.
 
+<p align="center">
+  <img src="../..//assets/depth-and-velocity.png" width="70%">
+</p>
+
 ### References
 
 1. D&V GitHub Repository (Leading.AI, CC BY 4.0 / MIT License)
