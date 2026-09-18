@@ -977,6 +977,10 @@ D&Vは、その人間の営みを、AIというレバレッジで10倍に加速�
 
 これが、生成AI時代の新規事業開発論である。
 
+<p align="center">
+  <img src="../..//assets/depth-and-velocity.png" width="70%">
+</p>
+
 ### 引用
 
 1. D&V GitHub リポジトリ（Leading.AI、CC BY 4.0 / MIT License）
